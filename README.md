@@ -1,5 +1,5 @@
 <b>😙 Hi all!</b><br>
-I'm Do Van Tu, I am currently studying Computer Engineering at Ha Noi University of Science and Technology.
+I'm Do Van Tu, I am currently studying Computer Engineering at [Ha Noi University of Science and Technology](https://hust.edu.vn/).
 
 ![](https://komarev.com/ghpvc/?username=ddotu2612)
 
