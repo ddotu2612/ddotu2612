@@ -1,9 +1,9 @@
-<b>Hi all 😙</b><br>
+<b>😙 Hi all!</b><br>
 I'm Do Van Tu, I am currently studying Computer Engineering at Ha Noi University of Science and Technology.
 
 ![](https://komarev.com/ghpvc/?username=ddotu2612)
 
-👨‍🍼About me:
+<b>🤙 About me</b>:
   <br>👀 I’m interested in Data Engineer, Data Scientist
   <br>🌱 I’m currently learning Data Engineer
   <br>📫 How to reach me dovantu290120000@gmail.com
